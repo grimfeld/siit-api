@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chalom Malka",
+    "position": "CEO",
+    "service_ids": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "name": "Anthony Tobelaim",
+    "position": "CPO",
+    "service_ids": [1, 2, 3, 4, 5, 7]
+  },
+  {
+    "name": "Dimitri Jorge",
+    "position": "CTO",
+    "service_ids": [1, 2, 3, 7]
+  },
+  {
+    "name": "Scarlett Johansson",
+    "position": "Black Widow",
+    "service_ids": [1, 2, 3, 4, 7]
+  },
+  {
+    "name": "Wanda Vision",
+    "position": "Witch",
+    "service_ids": [1, 2, 3, 4, 7]
+  },
+  {
+    "name": "Bruce Banner",
+    "position": "The Hulk",
+    "service_ids": [1, 3]
+  }
+]

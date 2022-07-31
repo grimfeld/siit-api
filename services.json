@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "website_url": "https://www.google.com/",
+    "logo_url": "https://cdn.iconscout.com/icon/free/png-256/google-160-189824.png",
+    "price": {
+      "cost_per_user": 5,
+      "flat_cost": 0,
+      "nb_users_included": 0
+    }
+  }, {
+    "id": 2,
+    "name": "Aircall",
+    "website_url": "https://aircall.io/",
+    "logo_url": "https://brand.aircall.co/wp-content/themes/aircallbrand/static/illustrations/cards/main-logo.svg",
+    "price": {
+      "cost_per_user": 40,
+      "flat_cost": 120,
+      "nb_users_included": 3
+    }
+  }, {
+    "id": 3,
+    "name": "Carta",
+    "website_url": "https://app.carta.com/",
+    "logo_url": "https://www.carta.com/wp-content/uploads/2020/04/cartalogo.svg",
+    "price": {
+      "cost_per_user": 50,
+      "flat_cost": 0,
+      "nb_users_included": 0
+    }
+  }, {
+    "id": 4,
+    "name": "Swile",
+    "website_url": "https://www.swile.co/",
+    "logo_url": "https://blog.swile.co/wp-content/uploads/2020/09/1003487899.png",
+    "price": {
+      "cost_per_user": 10,
+      "flat_cost": 0,
+      "nb_users_included": 0
+    }
+  }, {
+    "id": 5,
+    "name": "Payfit",
+    "website_url": "https://payfit.com/",
+    "logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/by8agut407gqlpztf4qk",
+    "price": {
+      "cost_per_user": 20,
+      "flat_cost": 0,
+      "nb_users_included": 0
+    }
+  }, {
+    "id": 6,
+    "name": "Lever",
+    "website_url": "https://www.lever.co/",
+    "logo_url": "https://www.lever.co/wp-content/uploads/2019/03/lever_rgb_logo_standard.svg",
+    "price": {
+      "cost_per_user": 49,
+      "flat_cost": 5000,
+      "nb_users_included": 2
+    }
+  }, {
+    "id": 7,
+    "name": "1Password",
+    "website_url": "https://1password.com/",
+    "logo_url": "https://1password.com/img/redesign/logo-light-bg.svg",
+    "price": {
+      "cost_per_user": 8,
+      "flat_cost": 0,
+      "nb_users_included": 0
+    }
+  }
+]
